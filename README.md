@@ -1,6 +1,6 @@
 # Gut microbiota development and dynamics in a Bangladeshi infant cohort during early life.
 Code to perform analyses on the 16S rRNA data of the Bangladeshi infant
-gut microbiota project
+gut microbiota project (Files to be uploaded soon!)
 
 For questions please contact Maria Ioanna Papadaki (`papadaki.mg@gmail.com`)
 
