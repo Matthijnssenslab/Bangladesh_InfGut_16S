@@ -1,7 +1,7 @@
-# **Gut microbiota development and dynamics in a Bangladeshi infant cohort during early life.**
+# **Global and local trajectories of infant gut microbiota development in Bangladesh across the COVID-19 pandemic.**
 Code to perform analyses on the 16S rRNA data of the Bangladeshi infant gut microbiota project.
 
-**For questions please contact:** Maria Ioanna Papadaki
+**For questions please contact:** Maria Ioanna Papadaki (papadaki.mg@gmail.com)
 
 This repository contains the analysis scripts for our study on infant gut microbiota development in a Bangladeshi infant population (**BBGUT cohort**) and how it compares to a Belgian infant cohort (**BABEL cohort**) during early life. Each script is organized to guide you through the downstream analysis and visualization of results. All main figures and supplementary data can be reproduced with the following scripts:
 
