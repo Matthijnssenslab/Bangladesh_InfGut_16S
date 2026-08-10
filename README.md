@@ -11,12 +11,12 @@ This repository contains the analysis scripts for our study on infant gut microb
 
 | Script | Function | DATA generated |
 |--------|----------|----------------|
-| *1_BBGUT_healthygutprofile_final.R* | The healthy gut microbiota development in Bangladeshi infants:<br>1. DMM<br>2. GMMs<br>3. Alpha diversity<br>4. Composition<br>5. Covid-19 | Figure 1b, 1c, 1e<br>Figure 4a, b<br>Supplementary Figure S6a<br>Supplementary Figure S7<br>Supplementary Figure S13<br>Supplementary Table S2<br>Supplementary Table S10 |
+| *1_BBGUT_healthygutprofile_final.R* | The healthy gut microbiota development in Bangladeshi infants:<br>1. DMM<br>2. GMMs<br>3. Alpha diversity<br>4. Composition<br>5. 2nd year period comparisons | Figure 1b, 1c, 1e<br>Figure 4a, b<br>Supplementary Figure S6a<br>Supplementary Figure S7<br>Supplementary Figure S13<br>Supplementary Table S2<br>Supplementary Table S10 |
 | *2_BBGUT_alpha_div_timebins_final.R* | Alpha diversity Supplementary figures (BBGUT cohort) | Supplementary Figure S6b<br>Supplementary Figure S12 |
 | *ASV_saturation_plot_final.R* | ASV saturation plot with increasing sample size (# infants) | Supplementary Figure S1a, b |
 | *Alpha_gmm_lmm_final.R* | Alpha diversity across GMMs (observed, shannon) LMM model | Supplementary Table S3 |
 | *Alpha_continuous_model_final.R* | Alpha diversity over time (observed, shannon) LMM model | Supplementary Table S3 |
-| *covidmonthpairs_comparison_lmm_final.R* | Normalized 2-month bacterial abundance changes across periods (P-P, P-L, L-L) | Supplementary Table S9 |
+| *covidmonthpairs_comparison_lmm_final.R* | Normalized 2-month bacterial abundance changes across age periods (E-E, E-L, L-L) | Supplementary Table S9 |
 
 ---
 
