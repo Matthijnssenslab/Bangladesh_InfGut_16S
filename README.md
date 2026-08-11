@@ -30,7 +30,7 @@ This repository contains the analysis scripts for our study on infant gut microb
 
 ---
 
-## **3_BBGUT_externalfactors** — External Factors & Metadata Covariates
+## **3_BBGUT_externalfactors** — Covariates explaining microbial community composition & Maturation setbacks
 
 | Script | Function | DATA generated |
 |--------|----------|----------------|
