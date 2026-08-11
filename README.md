@@ -66,7 +66,7 @@ No scripts — data preprocessing on processed reads/OTU table to get the final 
 
 ## **QC**
 
-Scripts and data to replicate the extended quality control analysis across sequencing runs.
+Scripts (including HTML reports documenting the analysis code and results) and data to replicate the extended quality control analysis across sequencing runs.
 
 | Script | DATA generated |
 |--------|----------------|
